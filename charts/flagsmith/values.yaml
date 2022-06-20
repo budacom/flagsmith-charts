@@ -25,7 +25,7 @@ api:
   podLabels: {}
   extraEnv: {}
   # extraEnvFromSecret:
-  #   NAME:
+  #   ENV_NAME:
   #    secretName: mysecret
   #    secretKey: mykey
   extraEnvFromSecret: {}
